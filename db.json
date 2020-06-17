@@ -1,20 +1,12 @@
-
-  "niveles": [
+{
+  "posts": [
     {
       "id": 1,
-      "curso": "Primero B"
-    },
-     {
-      "id": 2,
-      "curso": "Segundo A"
-    },
-     {
-      "id": 3,
-      "curso": "Tercero B"
-    },
-     {
-      "id": 4,
-      "curso": "Cuarto A"
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
+}
 
