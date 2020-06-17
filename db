@@ -2,7 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "curso": "primero a"
+      "nombre": "primero",
+      "numero": 1,
+      "letra": "A",
     },
      {
       "id": 2,
