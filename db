@@ -2,19 +2,19 @@
   "niveles": [
     {
       "id": 1,
-      "title": "Primero B"
+      "curso": "Primero B"
     },
      {
       "id": 2,
-      "title": "Segundo A"
+      "curso": "Segundo A"
     },
      {
       "id": 3,
-      "title": "Tercero B"
+      "curso": "Tercero B"
     },
      {
       "id": 4,
-      "title": "Cuarto A"
+      "curso": "Cuarto A"
     }
   ],
 }
